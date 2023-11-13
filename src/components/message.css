@@ -1,0 +1,10 @@
+.remove-btn{
+    color: white;
+    border: 0.15rem solid rgb(255, 255, 255);
+    font-size: 1.3rem;
+    font-family: 'Black Ops One';
+    height: 2rem;
+    width: 2rem;
+    border-radius: 50%;
+    cursor: pointer;
+}

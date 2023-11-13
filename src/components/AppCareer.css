@@ -1,0 +1,28 @@
+.block{
+    height: 30rem;
+    width: 100%;
+    display: flex;
+    text-align: center;
+}
+.opening{
+    background-color: rgb(19, 0, 37);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 10rem;
+    width: 100%;
+    border: 0.2rem solid white;
+    border-radius: 5px;
+}
+.opening > p{
+    font-size: 1.5rem;
+    color: white;
+    text-align: center;
+    background-color: rgb(19, 0, 37);
+}
+
+@media (max-width:768px){
+    .block{
+        font-size: 0.5rem;
+    }
+}

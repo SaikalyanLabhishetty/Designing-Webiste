@@ -1,0 +1,15 @@
+.h1_marque{
+    font-family:"Yeseva One"; 
+    color:white;
+    text-align: center;
+    font-size:2rem;
+    font-weight:normal
+}
+.wrapper-class img{
+    height: 10rem;
+    margin: 3rem 3rem ;
+}
+.wrapper-class-wall img{
+    height: 25rem;
+    margin: 3rem 3rem ;
+}

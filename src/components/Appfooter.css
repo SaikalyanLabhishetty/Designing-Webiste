@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Barcode+39&display=swap');
+footer{
+    background-color: #000000;
+    color: white;
+    padding: 1.2rem 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 1rem;
+    text-align: center;
+    margin-left: 1rem;
+}
+/* .barcode {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.3rem;
+} */
+.footer-center {
+    flex: 3;
+}
+.footer-left {
+    flex: 1;
+    text-align: left;
+}
+.footer-right {
+    flex: 1;
+    text-align: right;
+}
